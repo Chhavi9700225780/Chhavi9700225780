@@ -56,7 +56,10 @@ You can use the website to generate badges: https://shields.io/
 -----
 
 
-  ![Chhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhavi9700225780&show icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+
+  
+  ![Chhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhavi9700225780&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+  
   
   
   
@@ -93,4 +96,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 Last Edited on: 01/07/2024
+
+
+
+
 
