@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on .
+- I’m currently working on My Skills.
 - I’m currently learning Backend.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
