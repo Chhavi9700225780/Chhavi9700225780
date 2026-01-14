@@ -95,24 +95,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- ⭐ **620+ LeetCode problems solved** (Max Rating: **1750**)
-- ⭐ **2-Star CodeChef** (Max Rating: **1500**)
-- 🌍 **Hacktoberfest 2024** – 10+ PRs merged
-- 🥇 District Rank **#4** (Class 12 – 92.2%)
-
----
-
-## 📜 Certifications
-
-- ☁️ AWS Certified Cloud Practitioner  
-- 🧩 GitHub Foundations  
-- 🔧 DevOps Basics to Advanced – Udemy  
-- 🌐 Networking Essentials – Cisco  
-
----
-
 ## 😂 Code Joke of the Day
 
 <div  align="center">
