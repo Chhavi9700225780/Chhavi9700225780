@@ -45,9 +45,7 @@
 <a href="https://leetcode.com/u/chhavi_1696/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.codechef.com/users/chh_avi_91" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+
 </p>
 
 ---
